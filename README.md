@@ -11,6 +11,6 @@ I am a software devloper
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Miner's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-miner&theme=dark&show_icons=true?theme=chartreuse-dark)
+![Miner's GitHub stats](https://github-readme-stats.vercel.app/api?username=MainaAlexM&theme=dark&show_icons=true?theme=chartreuse-dark)
 
 -->
